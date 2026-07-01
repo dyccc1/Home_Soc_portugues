@@ -1,4 +1,4 @@
-# My Cybersecurity Portfolio 🛡️
+# My Cybersecurity Portfolio 
 
 Bem-vindo ao meu repositório de projetos de cibersegurança.
 
