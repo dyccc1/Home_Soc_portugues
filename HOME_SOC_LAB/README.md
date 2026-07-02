@@ -7,7 +7,7 @@ Este projeto documenta a implementação de um ecossistema de monitorização de
 ---
 ### Relatório Detalhado em PDF
  Pode consultar a documentação completa com todos os passos, prints e resoluções de problemas aqui:
- **[Relatorio_Lab_SOC_Diana.pdf.pdf](https://github.com/user-attachments/files/29612035/Relatorio_Lab_SOC_Diana.pdf.pdf)**
+ **[Relatorio_Lab_SOC_Diana.pdf](https://github.com/user-attachments/files/29612234/Relatorio_Lab_SOC_Diana.pdf)**
 ---
 
 ## Arquitetura e Rede
