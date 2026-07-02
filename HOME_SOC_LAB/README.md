@@ -4,6 +4,11 @@
 Este projeto documenta a implementação de um ecossistema de monitorização de segurança completo. O objetivo foi integrar telemetria avançada de um endpoint Windows (via Sysmon) e logs de rede perimetral (via pfSense) num servidor centralizado Wazuh SIEM.
 
 ---
+---
+### Relatório Detalhado em PDF
+ Pode consultar a documentação completa com todos os passos, prints e resoluções de problemas aqui:
+ **[Relatorio_Lab_SOC_Diana.pdf.pdf](https://github.com/user-attachments/files/29612035/Relatorio_Lab_SOC_Diana.pdf.pdf)**
+---
 
 ## Arquitetura e Rede
 O laboratório foi isolado num segmento de rede local para simular um ambiente corporativo:
@@ -75,4 +80,5 @@ Força a visibilidade de logs que inicialmente eram ignorados pelo motor de aná
 <img width="1542" height="783" alt="image" src="https://github.com/user-attachments/assets/214ab3ad-bceb-4886-84da-9d5f3a3166cd" />
 
 <img width="1706" height="719" alt="image" src="https://github.com/user-attachments/assets/f848c894-de5c-4132-b0a0-581497f1ebc7" />
+
 
