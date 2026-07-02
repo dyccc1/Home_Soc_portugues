@@ -35,8 +35,6 @@ O laboratório foi isolado num segmento de rede local para simular um ambiente c
 
 ### Deteção de Limpeza de Logs (Windows)
 Identifica quando um utilizador tenta apagar o rasto de atividades usando o `wevtutil`.
-### Deteção de Limpeza de Logs (Windows)
-Identifica quando um utilizador tenta apagar o rasto de atividades usando o `wevtutil`.
 
 ```xml
 <rule id="100002" level="12">
