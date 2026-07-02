@@ -62,7 +62,7 @@ Força a visibilidade de logs que inicialmente eram ignorados pelo motor de aná
 
 ## Lições Aprendidas (Troubleshooting)
 1. Sincronização de Tempo: A discrepância de relógios entre máquinas descarta logs silenciosamente. O NTP é obrigatório.
-2. Mapeamento de Campos: A tag <match> é uma solução eficaz de "fallback" quando o mapeamento de campos (data.) apresenta falhas de descodificação.
+2. Mapeamento de Campos: Inicialmente, tentei usar a tag <field> com o prefixo data.win.eventdata, mas a regra falhou. Aprendi que, para fins de laboratório e troubleshooting rápido, a tag <match> é mais eficiente pois realiza uma busca global no log bruto, ignorando falhas de mapeamento de campos .
 3. Active Response: A automação de bloqueio de IPs (firewall-drop) transforma o SIEM numa ferramenta reativa potente.
 
 ### Evidências do Lab
